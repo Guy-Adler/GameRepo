@@ -2,9 +2,9 @@ import socket
 import threading
 import json
 import pickle
-import util
+from .util import *
 import random
-from game import Game
+from .game import Game
 import time
 import io
 import logging
@@ -57,7 +57,7 @@ def threaded_client(conn, addr):
     logging.info(f'[SERVER] connected to {addr}')
     print(f'<{time.strftime("%H:%M:%S", time.localtime())}> [SERVER] Sending background image and font...')
     logging.info(f'[SERVER] Sending background image and font...')
-    reply = util.Response('connection')
+    reply = Response('connection')
 
     with open('assets/Assistant-Bold.ttf', 'rb') as file:
         reply.font = io.BytesIO(file.read())
@@ -78,12 +78,12 @@ def threaded_client(conn, addr):
                 print(f'<{time.strftime("%H:%M:%S", time.localtime())}> [USERNAME] Denied username {reply.username} for'
                       f' {addr} because it already exists.')
                 logging.info(f'[USERNAME] Denied username {reply.username} for  {addr} because it already exists.')
-                reply = util.Response('username')
+                reply = Response('username')
                 reply.OK = False
                 reply = pickle.dumps(reply)
             else:
                 user_id = reply.username
-                reply = util.Response('username')
+                reply = Response('username')
                 reply.OK = True
                 reply.color = random.choice(list(colors.values()))
                 usernames.add(user_id)
