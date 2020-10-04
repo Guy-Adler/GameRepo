@@ -18,7 +18,7 @@ logging.basicConfig(handlers=[logging.FileHandler(f'logs\\{time.strftime("%Y-%m-
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-players = int(input(f"<{time.strftime('%H:%M:%S', time.localtime())}> [SERVER]How many players will play"
+players = int(input(f"<{time.strftime('%H:%M:%S', time.localtime())}> [SERVER] How many players will play"
                     f"(ONLY NUMBERS): "))
 
 print(f"<{time.strftime('%H:%M:%S', time.localtime())}> [SERVER] Opening a server for {players} players...")
