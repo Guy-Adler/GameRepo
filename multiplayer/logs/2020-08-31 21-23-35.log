@@ -1,0 +1,33 @@
+<2020-08-31 21:23:35,261> [SERVER] Listening for connections...
+<2020-08-31 21:23:39,477> [SERVER] connected to ('10.0.0.33', 63101)
+<2020-08-31 21:23:39,477> [SERVER] Sending background image and font...
+<2020-08-31 21:23:40,772> [USERNAME] Accepted username test for ('10.0.0.33', 63101), sent color [70, 130, 180].
+<2020-08-31 21:23:40,773> [GAME] Game started.
+<2020-08-31 21:23:40,773> [GAME] New round started.
+<2020-08-31 21:23:40,773> [GAME] Current Question: 5×1
+<2020-08-31 21:23:40,773> [GAME] Answers: {10: False, 2: False, 15: False, 5: True}
+<2020-08-31 21:23:43,862> [POST] test (client ('10.0.0.33', 63101)) sent a POST request: reply.username, reply.time, reply.answer = ('test:[70, 130, 180]', 3, 5). Transferring the request to the game...
+<2020-08-31 21:23:43,862> [GAME] Updated test's score (+4 points) and streak.
+<2020-08-31 21:23:50,317> [DISCONNECT] Connection closed by test (client ('10.0.0.33', 63101)).
+<2020-08-31 21:24:35,137> [SERVER] connected to ('10.0.0.33', 63114)
+<2020-08-31 21:24:35,137> [SERVER] Sending background image and font...
+<2020-08-31 21:24:38,278> [USERNAME] Accepted username test for ('10.0.0.33', 63114), sent color [255, 0, 0].
+<2020-08-31 21:24:38,278> [GAME] Game started.
+<2020-08-31 21:24:38,278> [GAME] New round started.
+<2020-08-31 21:24:38,278> [GAME] Current Question: 2×5
+<2020-08-31 21:24:38,278> [GAME] Answers: {13: False, 16: False, 20: False, 10: True}
+<2020-08-31 21:24:58,370> [GAME] New round started.
+<2020-08-31 21:24:58,370> [GAME] Current Question: 7×2
+<2020-08-31 21:24:58,370> [GAME] Answers: {6: False, 23: False, 21: False, 14: True}
+<2020-08-31 21:25:02,457> [DISCONNECT] Connection closed by test (client ('10.0.0.33', 63114)).
+<2020-08-31 21:28:37,495> [SERVER] connected to ('10.0.0.33', 63173)
+<2020-08-31 21:28:37,495> [SERVER] Sending background image and font...
+<2020-08-31 21:28:39,141> [USERNAME] Accepted username test for ('10.0.0.33', 63173), sent color [47, 79, 79].
+<2020-08-31 21:28:39,141> [GAME] Game started.
+<2020-08-31 21:28:39,141> [GAME] New round started.
+<2020-08-31 21:28:39,141> [GAME] Current Question: 9×7
+<2020-08-31 21:28:39,142> [GAME] Answers: {54: False, 55: False, 61: False, 63: True}
+<2020-08-31 21:28:59,278> [GAME] New round started.
+<2020-08-31 21:28:59,278> [GAME] Current Question: 7×1
+<2020-08-31 21:28:59,278> [GAME] Answers: {17: False, 8: False, 16: False, 7: True}
+<2020-08-31 21:29:04,356> [DISCONNECT] Connection closed by test (client ('10.0.0.33', 63173)).

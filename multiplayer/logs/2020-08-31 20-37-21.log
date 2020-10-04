@@ -1,0 +1,323 @@
+<2020-08-31 20:37:21,128> [SERVER] Listening for connections...
+<2020-08-31 20:37:24,621> [SERVER] connected to ('10.0.0.41', 62527)
+<2020-08-31 20:37:24,621> [SERVER] Sending background image and font...
+<2020-08-31 20:37:26,024> [SERVER] connected to ('10.0.0.33', 62447)
+<2020-08-31 20:37:26,025> [SERVER] Sending background image and font...
+<2020-08-31 20:37:27,500> [USERNAME] Accepted username guy for ('10.0.0.33', 62447), sent color [210, 180, 140].
+<2020-08-31 20:37:31,869> [USERNAME] Accepted username איהיל for ('10.0.0.41', 62527), sent color [240, 128, 128].
+<2020-08-31 20:37:35,222> [SERVER] connected to ('10.0.0.53', 52744)
+<2020-08-31 20:37:35,223> [SERVER] Sending background image and font...
+<2020-08-31 20:37:45,551> [USERNAME] Accepted username אמא for ('10.0.0.53', 52744), sent color [0, 255, 255].
+<2020-08-31 20:37:45,551> [GAME] Game started.
+<2020-08-31 20:37:45,552> [GAME] New round started.
+<2020-08-31 20:37:45,552> [GAME] Current Question: 4×8
+<2020-08-31 20:37:45,552> [GAME] Answers: {41: False, 34: False, 29: False, 32: True}
+<2020-08-31 20:37:51,091> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 5, 32). Transferring the request to the game...
+<2020-08-31 20:37:51,092> [GAME] Updated איהיל's score (+2 points) and streak.
+<2020-08-31 20:37:54,181> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 8, 32). Transferring the request to the game...
+<2020-08-31 20:37:54,182> [GAME] Updated guy's score (+1 points) and streak.
+<2020-08-31 20:37:58,879> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 13, 32). Transferring the request to the game...
+<2020-08-31 20:37:58,879> [GAME] Updated אמא's score (+-2 points) and streak.
+<2020-08-31 20:38:05,647> [GAME] New round started.
+<2020-08-31 20:38:05,647> [GAME] Current Question: 1×5
+<2020-08-31 20:38:05,647> [GAME] Answers: {0: False, 3: False, 7: False, 5: True}
+<2020-08-31 20:38:07,731> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 2, 5). Transferring the request to the game...
+<2020-08-31 20:38:07,731> [GAME] Updated איהיל's score (+6 points) and streak.
+<2020-08-31 20:38:08,898> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 3, 5). Transferring the request to the game...
+<2020-08-31 20:38:08,898> [GAME] Updated אמא's score (+6 points) and streak.
+<2020-08-31 20:38:14,594> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 8, 5). Transferring the request to the game...
+<2020-08-31 20:38:14,594> [GAME] Updated guy's score (+3 points) and streak.
+<2020-08-31 20:38:25,751> [GAME] New round started.
+<2020-08-31 20:38:25,752> [GAME] Current Question: 10×7
+<2020-08-31 20:38:25,752> [GAME] Answers: {69: False, 62: False, 73: False, 70: True}
+<2020-08-31 20:38:26,833> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 1, 70). Transferring the request to the game...
+<2020-08-31 20:38:26,833> [GAME] Updated guy's score (+7 points) and streak.
+<2020-08-31 20:38:28,369> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 2, 70). Transferring the request to the game...
+<2020-08-31 20:38:28,369> [GAME] Updated איהיל's score (+7 points) and streak.
+<2020-08-31 20:38:28,990> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 3, 70). Transferring the request to the game...
+<2020-08-31 20:38:28,991> [GAME] Updated אמא's score (+7 points) and streak.
+<2020-08-31 20:38:45,854> [GAME] New round started.
+<2020-08-31 20:38:45,854> [GAME] Current Question: 7×9
+<2020-08-31 20:38:45,855> [GAME] Answers: {53: False, 59: False, 66: False, 63: True}
+<2020-08-31 20:38:47,358> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 1, 63). Transferring the request to the game...
+<2020-08-31 20:38:47,358> [GAME] Updated guy's score (+8 points) and streak.
+<2020-08-31 20:38:48,581> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 2, 59). Transferring the request to the game...
+<2020-08-31 20:38:48,582> [GAME] Updated איהיל's score (+0 points) and streak.
+<2020-08-31 20:38:52,773> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 6, 63). Transferring the request to the game...
+<2020-08-31 20:38:52,774> [GAME] Updated אמא's score (+6 points) and streak.
+<2020-08-31 20:39:05,946> [GAME] New round started.
+<2020-08-31 20:39:05,946> [GAME] Current Question: 6×0
+<2020-08-31 20:39:05,946> [GAME] Answers: {1: False, 6: False, 8: False, 0: True}
+<2020-08-31 20:39:07,697> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 1, 0). Transferring the request to the game...
+<2020-08-31 20:39:07,698> [GAME] Updated איהיל's score (+4 points) and streak.
+<2020-08-31 20:39:10,308> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 4, 0). Transferring the request to the game...
+<2020-08-31 20:39:10,308> [GAME] Updated אמא's score (+8 points) and streak.
+<2020-08-31 20:39:26,031> [GAME] New round started.
+<2020-08-31 20:39:26,032> [GAME] Current Question: 3×5
+<2020-08-31 20:39:26,032> [GAME] Answers: {10: False, 21: False, 5: False, 15: True}
+<2020-08-31 20:39:28,321> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 2, 15). Transferring the request to the game...
+<2020-08-31 20:39:28,321> [GAME] Updated איהיל's score (+6 points) and streak.
+<2020-08-31 20:39:28,493> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 2, 15). Transferring the request to the game...
+<2020-08-31 20:39:28,494> [GAME] Updated guy's score (+9 points) and streak.
+<2020-08-31 20:39:31,199> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 5, 15). Transferring the request to the game...
+<2020-08-31 20:39:31,200> [GAME] Updated אמא's score (+7 points) and streak.
+<2020-08-31 20:39:46,151> [GAME] New round started.
+<2020-08-31 20:39:46,151> [GAME] Current Question: 10×4
+<2020-08-31 20:39:46,152> [GAME] Answers: {31: False, 42: False, 49: False, 40: True}
+<2020-08-31 20:39:47,604> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 1, 40). Transferring the request to the game...
+<2020-08-31 20:39:47,604> [GAME] Updated guy's score (+9 points) and streak.
+<2020-08-31 20:39:49,573> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 3, 40). Transferring the request to the game...
+<2020-08-31 20:39:49,574> [GAME] Updated איהיל's score (+7 points) and streak.
+<2020-08-31 20:39:50,785> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 4, 40). Transferring the request to the game...
+<2020-08-31 20:39:50,785> [GAME] Updated אמא's score (+8 points) and streak.
+<2020-08-31 20:40:06,254> [GAME] New round started.
+<2020-08-31 20:40:06,255> [GAME] Current Question: 8×4
+<2020-08-31 20:40:06,255> [GAME] Answers: {33: False, 24: False, 29: False, 32: True}
+<2020-08-31 20:40:11,787> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 5, 24). Transferring the request to the game...
+<2020-08-31 20:40:11,787> [GAME] Updated אמא's score (+0 points) and streak.
+<2020-08-31 20:40:18,661> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 12, 24). Transferring the request to the game...
+<2020-08-31 20:40:18,662> [GAME] Updated איהיל's score (+0 points) and streak.
+<2020-08-31 20:40:26,362> [GAME] New round started.
+<2020-08-31 20:40:26,363> [GAME] Current Question: 0×3
+<2020-08-31 20:40:26,363> [GAME] Answers: {1: False, 6: False, 5: False, 0: True}
+<2020-08-31 20:40:27,739> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 1, 0). Transferring the request to the game...
+<2020-08-31 20:40:27,739> [GAME] Updated איהיל's score (+4 points) and streak.
+<2020-08-31 20:40:33,526> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 7, 0). Transferring the request to the game...
+<2020-08-31 20:40:33,527> [GAME] Updated אמא's score (+2 points) and streak.
+<2020-08-31 20:40:46,465> [GAME] New round started.
+<2020-08-31 20:40:46,466> [GAME] Current Question: 9×7
+<2020-08-31 20:40:46,466> [GAME] Answers: {60: False, 55: False, 54: False, 63: True}
+<2020-08-31 20:40:54,720> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 8, 63). Transferring the request to the game...
+<2020-08-31 20:40:54,720> [GAME] Updated איהיל's score (+3 points) and streak.
+<2020-08-31 20:41:03,590> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 16, 54). Transferring the request to the game...
+<2020-08-31 20:41:03,590> [GAME] Updated אמא's score (+0 points) and streak.
+<2020-08-31 20:41:06,608> [GAME] New round started.
+<2020-08-31 20:41:06,608> [GAME] Current Question: 1×9
+<2020-08-31 20:41:06,609> [GAME] Answers: {13: False, 1: False, 16: False, 9: True}
+<2020-08-31 20:41:08,348> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 1, 9). Transferring the request to the game...
+<2020-08-31 20:41:08,349> [GAME] Updated איהיל's score (+7 points) and streak.
+<2020-08-31 20:41:14,998> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 8, 9). Transferring the request to the game...
+<2020-08-31 20:41:14,998> [GAME] Updated אמא's score (+1 points) and streak.
+<2020-08-31 20:41:18,611> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 11, 9). Transferring the request to the game...
+<2020-08-31 20:41:18,612> [GAME] Updated guy's score (+4 points) and streak.
+<2020-08-31 20:41:26,685> [GAME] New round started.
+<2020-08-31 20:41:26,685> [GAME] Current Question: 9×3
+<2020-08-31 20:41:26,686> [GAME] Answers: {19: False, 23: False, 22: False, 27: True}
+<2020-08-31 20:41:28,438> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 1, 27). Transferring the request to the game...
+<2020-08-31 20:41:28,438> [GAME] Updated guy's score (+9 points) and streak.
+<2020-08-31 20:41:30,179> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 3, 22). Transferring the request to the game...
+<2020-08-31 20:41:30,180> [GAME] Updated איהיל's score (+0 points) and streak.
+<2020-08-31 20:41:35,129> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 8, 27). Transferring the request to the game...
+<2020-08-31 20:41:35,129> [GAME] Updated אמא's score (+3 points) and streak.
+<2020-08-31 20:41:46,790> [GAME] New round started.
+<2020-08-31 20:41:46,790> [GAME] Current Question: 6×7
+<2020-08-31 20:41:46,790> [GAME] Answers: {50: False, 36: False, 32: False, 42: True}
+<2020-08-31 20:41:59,350> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 12, 42). Transferring the request to the game...
+<2020-08-31 20:41:59,350> [GAME] Updated guy's score (+4 points) and streak.
+<2020-08-31 20:42:01,593> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 14, 42). Transferring the request to the game...
+<2020-08-31 20:42:01,594> [GAME] Updated איהיל's score (+-2 points) and streak.
+<2020-08-31 20:42:06,917> [GAME] New round started.
+<2020-08-31 20:42:06,918> [GAME] Current Question: 9×3
+<2020-08-31 20:42:06,918> [GAME] Answers: {32: False, 34: False, 19: False, 27: True}
+<2020-08-31 20:42:06,938> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 0, 27). Transferring the request to the game...
+<2020-08-31 20:42:06,938> [GAME] Updated אמא's score (+8 points) and streak.
+<2020-08-31 20:42:14,050> [POST] guy (client ('10.0.0.33', 62447)) sent a POST request: reply.username, reply.time, reply.answer = ('guy:[210, 180, 140]', 7, 27). Transferring the request to the game...
+<2020-08-31 20:42:14,051> [GAME] Updated guy's score (+7 points) and streak.
+<2020-08-31 20:42:23,121> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 16, 32). Transferring the request to the game...
+<2020-08-31 20:42:23,122> [GAME] Updated איהיל's score (+0 points) and streak.
+<2020-08-31 20:42:27,031> [GAME] New round started.
+<2020-08-31 20:42:27,032> [GAME] Current Question: 0×2
+<2020-08-31 20:42:27,032> [GAME] Answers: {4: False, 1: False, 10: False, 0: True}
+<2020-08-31 20:42:27,408> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 0, 10). Transferring the request to the game...
+<2020-08-31 20:42:27,409> [GAME] Updated אמא's score (+0 points) and streak.
+<2020-08-31 20:42:28,989> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 1, 0). Transferring the request to the game...
+<2020-08-31 20:42:28,989> [GAME] Updated איהיל's score (+4 points) and streak.
+<2020-08-31 20:42:47,109> [GAME] New round started.
+<2020-08-31 20:42:47,109> [GAME] Current Question: 5×6
+<2020-08-31 20:42:47,110> [GAME] Answers: {31: False, 24: False, 32: False, 30: True}
+<2020-08-31 20:42:52,555> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 5, 30). Transferring the request to the game...
+<2020-08-31 20:42:52,556> [GAME] Updated איהיל's score (+4 points) and streak.
+<2020-08-31 20:42:58,424> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 11, 30). Transferring the request to the game...
+<2020-08-31 20:42:58,425> [GAME] Updated אמא's score (+-1 points) and streak.
+<2020-08-31 20:43:07,228> [GAME] New round started.
+<2020-08-31 20:43:07,228> [GAME] Current Question: 6×8
+<2020-08-31 20:43:07,228> [GAME] Answers: {55: False, 58: False, 38: False, 48: True}
+<2020-08-31 20:43:16,391> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 9, 48). Transferring the request to the game...
+<2020-08-31 20:43:16,391> [GAME] Updated איהיל's score (+3 points) and streak.
+<2020-08-31 20:43:17,539> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 10, 48). Transferring the request to the game...
+<2020-08-31 20:43:17,540> [GAME] Updated אמא's score (+2 points) and streak.
+<2020-08-31 20:43:25,774> [DISCONNECT] Connection closed by guy (client ('10.0.0.33', 62447)).
+<2020-08-31 20:43:27,328> [GAME] New round started.
+<2020-08-31 20:43:27,329> [GAME] Current Question: 7×5
+<2020-08-31 20:43:27,329> [GAME] Answers: {36: False, 45: False, 31: False, 35: True}
+<2020-08-31 20:43:31,425> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 4, 35). Transferring the request to the game...
+<2020-08-31 20:43:31,425> [GAME] Updated איהיל's score (+7 points) and streak.
+<2020-08-31 20:43:34,426> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 7, 35). Transferring the request to the game...
+<2020-08-31 20:43:34,426> [GAME] Updated אמא's score (+5 points) and streak.
+<2020-08-31 20:43:47,456> [GAME] New round started.
+<2020-08-31 20:43:47,456> [GAME] Current Question: 7×4
+<2020-08-31 20:43:47,456> [GAME] Answers: {21: False, 31: False, 25: False, 28: True}
+<2020-08-31 20:43:51,175> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 3, 21). Transferring the request to the game...
+<2020-08-31 20:43:51,175> [GAME] Updated איהיל's score (+0 points) and streak.
+<2020-08-31 20:43:59,335> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 11, 28). Transferring the request to the game...
+<2020-08-31 20:43:59,335> [GAME] Updated אמא's score (+3 points) and streak.
+<2020-08-31 20:44:07,653> [GAME] New round started.
+<2020-08-31 20:44:07,653> [GAME] Current Question: 2×1
+<2020-08-31 20:44:07,653> [GAME] Answers: {5: False, 9: False, 6: False, 2: True}
+<2020-08-31 20:44:09,851> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 2, 2). Transferring the request to the game...
+<2020-08-31 20:44:09,852> [GAME] Updated איהיל's score (+4 points) and streak.
+<2020-08-31 20:44:12,209> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 4, 2). Transferring the request to the game...
+<2020-08-31 20:44:12,209> [GAME] Updated אמא's score (+8 points) and streak.
+<2020-08-31 20:44:27,831> [GAME] New round started.
+<2020-08-31 20:44:27,832> [GAME] Current Question: 0×9
+<2020-08-31 20:44:27,832> [GAME] Answers: {5: False, 10: False, 2: False, 0: True}
+<2020-08-31 20:44:29,537> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 1, 0). Transferring the request to the game...
+<2020-08-31 20:44:29,538> [GAME] Updated איהיל's score (+6 points) and streak.
+<2020-08-31 20:44:32,373> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 4, 0). Transferring the request to the game...
+<2020-08-31 20:44:32,373> [GAME] Updated אמא's score (+8 points) and streak.
+<2020-08-31 20:44:48,033> [GAME] New round started.
+<2020-08-31 20:44:48,033> [GAME] Current Question: 0×3
+<2020-08-31 20:44:48,033> [GAME] Answers: {6: False, 7: False, 10: False, 0: True}
+<2020-08-31 20:44:49,568> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 1, 0). Transferring the request to the game...
+<2020-08-31 20:44:49,568> [GAME] Updated איהיל's score (+7 points) and streak.
+<2020-08-31 20:44:56,247> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 8, 0). Transferring the request to the game...
+<2020-08-31 20:44:56,248> [GAME] Updated אמא's score (+6 points) and streak.
+<2020-08-31 20:45:08,226> [GAME] New round started.
+<2020-08-31 20:45:08,227> [GAME] Current Question: 8×7
+<2020-08-31 20:45:08,227> [GAME] Answers: {62: False, 50: False, 48: False, 56: True}
+<2020-08-31 20:45:10,675> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 2, 56). Transferring the request to the game...
+<2020-08-31 20:45:10,676> [GAME] Updated איהיל's score (+8 points) and streak.
+<2020-08-31 20:45:13,369> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 5, 56). Transferring the request to the game...
+<2020-08-31 20:45:13,369> [GAME] Updated אמא's score (+7 points) and streak.
+<2020-08-31 20:45:28,409> [GAME] New round started.
+<2020-08-31 20:45:28,409> [GAME] Current Question: 5×9
+<2020-08-31 20:45:28,409> [GAME] Answers: {38: False, 43: False, 52: False, 45: True}
+<2020-08-31 20:45:33,046> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 4, 45). Transferring the request to the game...
+<2020-08-31 20:45:33,046> [GAME] Updated איהיל's score (+8 points) and streak.
+<2020-08-31 20:45:38,735> [POST] אמא (client ('10.0.0.53', 52744)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[0, 255, 255]', 10, 45). Transferring the request to the game...
+<2020-08-31 20:45:38,735> [GAME] Updated אמא's score (+5 points) and streak.
+<2020-08-31 20:45:48,594> [GAME] New round started.
+<2020-08-31 20:45:48,595> [GAME] Current Question: 5×4
+<2020-08-31 20:45:48,595> [GAME] Answers: {24: False, 11: False, 17: False, 20: True}
+<2020-08-31 20:45:51,158> [POST] איהיל (client ('10.0.0.41', 62527)) sent a POST request: reply.username, reply.time, reply.answer = ('איהיל:[240, 128, 128]', 2, 20). Transferring the request to the game...
+<2020-08-31 20:45:51,159> [GAME] Updated איהיל's score (+9 points) and streak.
+<2020-08-31 20:45:56,848> [DISCONNECT] Connection closed by איהיל (client ('10.0.0.41', 62527)).
+<2020-08-31 20:46:19,983> [SERVER] connected to ('10.0.0.41', 62542)
+<2020-08-31 20:46:19,984> [SERVER] Sending background image and font...
+<2020-08-31 20:46:20,263> [DISCONNECT] Connection closed by אמא (client ('10.0.0.53', 52744)).
+<2020-08-31 20:46:25,736> [SERVER] connected to ('10.0.0.53', 52776)
+<2020-08-31 20:46:25,737> [SERVER] Sending background image and font...
+<2020-08-31 20:46:26,937> [USERNAME] Accepted username םןיןםיחעיםןחהחיםחעךלעיל for ('10.0.0.41', 62542), sent color [255, 127, 80].
+<2020-08-31 20:46:30,811> [USERNAME] Accepted username אמא for ('10.0.0.53', 52776), sent color [95, 158, 160].
+<2020-08-31 20:46:30,883> [SERVER] connected to ('10.0.0.33', 62560)
+<2020-08-31 20:46:30,883> [SERVER] Sending background image and font...
+<2020-08-31 20:46:32,363> [USERNAME] Accepted username guy for ('10.0.0.33', 62560), sent color [255, 165, 0].
+<2020-08-31 20:46:32,363> [GAME] Game started.
+<2020-08-31 20:46:32,363> [GAME] New round started.
+<2020-08-31 20:46:32,363> [GAME] Current Question: 5×7
+<2020-08-31 20:46:32,364> [GAME] Answers: {43: False, 34: False, 39: False, 35: True}
+<2020-08-31 20:46:33,618> [DISCONNECT] Connection closed by guy (client ('10.0.0.33', 62560)).
+<2020-08-31 20:46:38,032> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 5, 35). Transferring the request to the game...
+<2020-08-31 20:46:38,033> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+2 points) and streak.
+<2020-08-31 20:46:50,521> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 17, 35). Transferring the request to the game...
+<2020-08-31 20:46:50,521> [GAME] Updated אמא's score (+-4 points) and streak.
+<2020-08-31 20:46:52,540> [GAME] New round started.
+<2020-08-31 20:46:52,540> [GAME] Current Question: 3×9
+<2020-08-31 20:46:52,541> [GAME] Answers: {35: False, 26: False, 19: False, 27: True}
+<2020-08-31 20:46:57,115> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 4, 26). Transferring the request to the game...
+<2020-08-31 20:46:57,115> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+0 points) and streak.
+<2020-08-31 20:47:02,362> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 9, 27). Transferring the request to the game...
+<2020-08-31 20:47:02,363> [GAME] Updated אמא's score (+2 points) and streak.
+<2020-08-31 20:47:12,737> [GAME] New round started.
+<2020-08-31 20:47:12,737> [GAME] Current Question: 4×3
+<2020-08-31 20:47:12,738> [GAME] Answers: {13: False, 10: False, 20: False, 12: True}
+<2020-08-31 20:47:18,320> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 5, 12). Transferring the request to the game...
+<2020-08-31 20:47:18,320> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+2 points) and streak.
+<2020-08-31 20:47:23,117> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 10, 12). Transferring the request to the game...
+<2020-08-31 20:47:23,118> [GAME] Updated אמא's score (+3 points) and streak.
+<2020-08-31 20:47:32,969> [GAME] New round started.
+<2020-08-31 20:47:32,969> [GAME] Current Question: 4×7
+<2020-08-31 20:47:32,969> [GAME] Answers: {30: False, 23: False, 19: False, 28: True}
+<2020-08-31 20:47:40,207> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 7, 28). Transferring the request to the game...
+<2020-08-31 20:47:40,207> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+4 points) and streak.
+<2020-08-31 20:47:43,989> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 10, 28). Transferring the request to the game...
+<2020-08-31 20:47:43,989> [GAME] Updated אמא's score (+4 points) and streak.
+<2020-08-31 20:47:53,148> [GAME] New round started.
+<2020-08-31 20:47:53,148> [GAME] Current Question: 10×7
+<2020-08-31 20:47:53,148> [GAME] Answers: {71: False, 61: False, 66: False, 70: True}
+<2020-08-31 20:47:55,998> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 2, 70). Transferring the request to the game...
+<2020-08-31 20:47:55,998> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+7 points) and streak.
+<2020-08-31 20:47:58,813> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 5, 70). Transferring the request to the game...
+<2020-08-31 20:47:58,813> [GAME] Updated אמא's score (+7 points) and streak.
+<2020-08-31 20:48:13,335> [GAME] New round started.
+<2020-08-31 20:48:13,335> [GAME] Current Question: 1×2
+<2020-08-31 20:48:13,336> [GAME] Answers: {6: False, 8: False, 11: False, 2: True}
+<2020-08-31 20:48:14,854> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 1, 2). Transferring the request to the game...
+<2020-08-31 20:48:14,854> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+8 points) and streak.
+<2020-08-31 20:48:18,651> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 5, 2). Transferring the request to the game...
+<2020-08-31 20:48:18,651> [GAME] Updated אמא's score (+7 points) and streak.
+<2020-08-31 20:48:33,498> [GAME] New round started.
+<2020-08-31 20:48:33,498> [GAME] Current Question: 0×1
+<2020-08-31 20:48:33,499> [GAME] Answers: {5: False, 2: False, 6: False, 0: True}
+<2020-08-31 20:48:35,914> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 2, 0). Transferring the request to the game...
+<2020-08-31 20:48:35,914> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:48:41,775> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 8, 0). Transferring the request to the game...
+<2020-08-31 20:48:41,775> [GAME] Updated אמא's score (+6 points) and streak.
+<2020-08-31 20:48:53,666> [GAME] New round started.
+<2020-08-31 20:48:53,666> [GAME] Current Question: 3×5
+<2020-08-31 20:48:53,667> [GAME] Answers: {9: False, 20: False, 7: False, 15: True}
+<2020-08-31 20:48:55,468> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 1, 15). Transferring the request to the game...
+<2020-08-31 20:48:55,468> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:48:57,524> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 3, 15). Transferring the request to the game...
+<2020-08-31 20:48:57,524> [GAME] Updated אמא's score (+9 points) and streak.
+<2020-08-31 20:49:13,827> [GAME] New round started.
+<2020-08-31 20:49:13,827> [GAME] Current Question: 5×3
+<2020-08-31 20:49:13,827> [GAME] Answers: {14: False, 25: False, 6: False, 15: True}
+<2020-08-31 20:49:16,309> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 2, 15). Transferring the request to the game...
+<2020-08-31 20:49:16,309> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:49:18,430> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 4, 15). Transferring the request to the game...
+<2020-08-31 20:49:18,431> [GAME] Updated אמא's score (+8 points) and streak.
+<2020-08-31 20:49:34,052> [GAME] New round started.
+<2020-08-31 20:49:34,052> [GAME] Current Question: 9×10
+<2020-08-31 20:49:34,053> [GAME] Answers: {100: False, 84: False, 81: False, 90: True}
+<2020-08-31 20:49:35,685> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 1, 90). Transferring the request to the game...
+<2020-08-31 20:49:35,685> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:49:36,026> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 1, 90). Transferring the request to the game...
+<2020-08-31 20:49:36,027> [GAME] Updated אמא's score (+9 points) and streak.
+<2020-08-31 20:49:54,240> [GAME] New round started.
+<2020-08-31 20:49:54,240> [GAME] Current Question: 6×10
+<2020-08-31 20:49:54,241> [GAME] Answers: {58: False, 51: False, 68: False, 60: True}
+<2020-08-31 20:49:56,634> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 2, 60). Transferring the request to the game...
+<2020-08-31 20:49:56,634> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:49:57,662> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 3, 60). Transferring the request to the game...
+<2020-08-31 20:49:57,663> [GAME] Updated אמא's score (+9 points) and streak.
+<2020-08-31 20:50:14,443> [GAME] New round started.
+<2020-08-31 20:50:14,443> [GAME] Current Question: 1×7
+<2020-08-31 20:50:14,443> [GAME] Answers: {9: False, 10: False, 17: False, 7: True}
+<2020-08-31 20:50:15,717> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 1, 7). Transferring the request to the game...
+<2020-08-31 20:50:15,717> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:50:16,828> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 2, 7). Transferring the request to the game...
+<2020-08-31 20:50:16,829> [GAME] Updated אמא's score (+9 points) and streak.
+<2020-08-31 20:50:34,623> [GAME] New round started.
+<2020-08-31 20:50:34,623> [GAME] Current Question: 7×2
+<2020-08-31 20:50:34,624> [GAME] Answers: {13: False, 24: False, 18: False, 14: True}
+<2020-08-31 20:50:37,266> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 2, 14). Transferring the request to the game...
+<2020-08-31 20:50:37,267> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:50:37,549> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 2, 14). Transferring the request to the game...
+<2020-08-31 20:50:37,549> [GAME] Updated אמא's score (+9 points) and streak.
+<2020-08-31 20:50:54,803> [GAME] New round started.
+<2020-08-31 20:50:54,804> [GAME] Current Question: 8×10
+<2020-08-31 20:50:54,804> [GAME] Answers: {78: False, 81: False, 88: False, 80: True}
+<2020-08-31 20:50:56,447> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 1, 80). Transferring the request to the game...
+<2020-08-31 20:50:56,447> [GAME] Updated אמא's score (+9 points) and streak.
+<2020-08-31 20:50:56,528> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 1, 80). Transferring the request to the game...
+<2020-08-31 20:50:56,528> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:51:15,002> [GAME] New round started.
+<2020-08-31 20:51:15,002> [GAME] Current Question: 9×10
+<2020-08-31 20:51:15,003> [GAME] Answers: {93: False, 83: False, 81: False, 90: True}
+<2020-08-31 20:51:16,633> [POST] םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)) sent a POST request: reply.username, reply.time, reply.answer = ('םןיןםיחעיםןחהחיםחעךלעיל:[255, 127, 80]', 1, 90). Transferring the request to the game...
+<2020-08-31 20:51:16,634> [GAME] Updated םןיןםיחעיםןחהחיםחעךלעיל's score (+9 points) and streak.
+<2020-08-31 20:51:17,306> [POST] אמא (client ('10.0.0.53', 52776)) sent a POST request: reply.username, reply.time, reply.answer = ('אמא:[95, 158, 160]', 2, 90). Transferring the request to the game...
+<2020-08-31 20:51:17,306> [GAME] Updated אמא's score (+9 points) and streak.
+<2020-08-31 20:51:54,015> [DISCONNECT] Connection closed by םןיןםיחעיםןחהחיםחעךלעיל (client ('10.0.0.41', 62542)).
+<2020-08-31 20:52:38,918> [DISCONNECT] Connection closed by אמא (client ('10.0.0.53', 52776)).
