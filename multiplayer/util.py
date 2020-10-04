@@ -1,6 +1,8 @@
 """Utilities for the server and client."""
 import pygame
 import pygame.freetype
+import logging
+import time
 
 
 class Response:
@@ -28,6 +30,12 @@ def is_english(s):
         return False  # The string contains one character or more that are not ASCII
     else:
         return True  # The string only contains ASCII
+
+
+def log(sender, msg):
+    output = f"[{sender.upper()}] {msg}"
+    print(f"<{time.strftime('%H:%M:%S', time.localtime())}> {output}")
+    logging.info(output)
 
 
 def get_username(win, first, font):

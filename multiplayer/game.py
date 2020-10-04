@@ -2,6 +2,7 @@ import random
 import time
 import threading
 import logging
+from multiplayer.util import log
 
 
 def threaded(fn):
@@ -22,6 +23,7 @@ class Game:
         self.time_left = timer
         self.largest_number = largest_number
         self.timer(timer)
+
 
     @threaded
     def timer(self, s):
@@ -44,12 +46,9 @@ class Game:
         incorrect_answers = random.sample([i for i in possible_range if i != correct_answer], 3)
         answers = incorrect_answers + [correct_answer]
         self.answers = {answer: False if answer in incorrect_answers else True for answer in answers}
-        print(f'<{time.strftime("%H:%M:%S", time.localtime())}> [GAME] New round started.')
-        logging.info(f'[GAME] New round started.')
-        print(f'<{time.strftime("%H:%M:%S", time.localtime())}> [GAME] Current Question: {self.question}')
-        logging.info(f'[GAME] Current Question: {self.question}')
-        print(f'<{time.strftime("%H:%M:%S", time.localtime())}> [GAME] Answers: {self.answers}')
-        logging.info(f'[GAME] Answers: {self.answers}')
+        log('GAME', 'New round started.')
+        log('GAME', f'Current question: {self.question}')
+        log('GAME', f'Answers: {self.answers}')
 
     def update_score(self, player, t, answer):
         answer = True if self.answers.get(answer, False) else False

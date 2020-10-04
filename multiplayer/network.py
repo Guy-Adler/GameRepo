@@ -1,5 +1,5 @@
 import socket
-from .util import *
+from multiplayer.util import *
 import pickle
 
 FORMAT = 'utf-8'

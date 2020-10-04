@@ -1,6 +1,6 @@
 import pygame
 import pygame.freetype
-from .network import Network
+from multiplayer.network import Network
 import random
 import math
 
