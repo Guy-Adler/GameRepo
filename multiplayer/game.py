@@ -1,7 +1,6 @@
 import random
 import time
 import threading
-import logging
 from multiplayer.util import log
 
 
@@ -67,8 +66,6 @@ class Game:
         if self.score[player] >= 100:
             self.score[player] = str(len([i for i in self.score.values() if type(i) is str]) + 1)
 
-        print(f"<{time.strftime('%H:%M:%S', time.localtime())}> [GAME] Updated {player.split(':')[0]}'s score "
-              f"(+{score if answer else 0} points) and streak.")
-        logging.info(f"[GAME] Updated {player.split(':')[0]}'s score (+{score if answer else 0} points) and streak.")
+        log(f"[GAME] Updated {player.split(':')[0]}'s score (+{score if answer else 0} points) and streak.")
 
         return answer
