@@ -1,4 +1,4 @@
-from game import Game
+from singleplayer.game import Game
 import random
 import time
 

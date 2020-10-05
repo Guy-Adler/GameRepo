@@ -24,7 +24,6 @@ class Game:
         self.largest_number = largest_number
         self.timer(timer)
 
-
     @threaded
     def timer(self, s):
         if self.ready and not all(type(x) is str for x in self.score.values()) and self.score != {}:
